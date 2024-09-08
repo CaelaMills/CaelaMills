@@ -6,7 +6,9 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Building a TCP Client (Using Concurrency and Logging and Monitoring)](https://github.com/CaelaMills/TCPClient)
+  - [Building a UDP Client (Observing the “Three-Way Handshake”)](https://github.com/CaelaMills/UDPClient)
+  - [Building a TCP Client (Implementing Rate Time Limiting)](https://github.com/CaelaMills/TCPServer)
 
 <h2>📺 YouTube Demonstration Videos</h2>
 
@@ -17,8 +19,8 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/@caelamills2581
+[linkedin]: https://www.linkedin.com/in/caela-mills
 
 <!--
 **CaelaMills/CaelaMills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
