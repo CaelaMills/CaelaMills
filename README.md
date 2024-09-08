@@ -5,7 +5,7 @@
 - <b>PowerShell</b>
   - [Azure Sentinel: Malicious Logins Source IP to GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
-- <b>Python</b>
+- <b>Python (NSFW, For Educational Purposes Only)</b>
   - [Building a TCP Client (Using Concurrency and Logging and Monitoring)](https://github.com/CaelaMills/TCPClient)
   - [Building a UDP Client (Observing the “Three-Way Handshake”)](https://github.com/CaelaMills/UDPClient)
   - [Building a TCP Client (Implementing Rate Time Limiting)](https://github.com/CaelaMills/TCPServer)
