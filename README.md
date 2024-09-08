@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Azure Sentinel: Malicious Logins Source IP to GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Azure Sentinel: Malicious Logins Source IP to GeoData Conversion](https://github.com/CaelaMills/Azure-Sentinel-Lab)
 
 - <b>Python (NSFW, For Educational Purposes Only)</b>
   - [Building a TCP Client (Using Concurrency and Logging and Monitoring)](https://github.com/CaelaMills/TCPClient)
