@@ -3,10 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>VirtualBox</b>
-  - [Creating a Secure Hacking Lab: Using Virtual Box and the VulnHub library](https://github.com/CaelaMills/Secure-Hacking-Lab)
-  
-- <b>PowerShell</b>
-  - [Azure Sentinel: Malicious Logins Source IP to GeoData Conversion](https://github.com/CaelaMills/Azure-Sentinel-Lab)
+  - [Kali: Hacking DHCP using a MITM Attack]()
 
 - <b>Python (NSFW, For Educational Purposes Only)</b>
   - [Building a TCP Client (Using Concurrency, Logging, and Monitoring)](https://github.com/CaelaMills/TCPClient)
