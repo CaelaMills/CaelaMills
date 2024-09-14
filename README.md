@@ -4,6 +4,7 @@
 
 - <b>CTF Challenges</b>
   - [An Academic Analysis of the DevRandom CTF: 1.1 Vulnerable Virtual Machine]()
+  - [An Academic Analysis of the Billy Madison CTF: 1.1 Vulnerable Virtual Machine]()
 
 - <b>Python (NSFW, For Educational Purposes Only)</b>
   - [Building a TCP Client (Using Concurrency, Logging, and Monitoring)](https://github.com/CaelaMills/TCPClient)
