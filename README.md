@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>CTF Challenges: VM Labs</b>
-  - [Kali: Hacking DHCP using a MITM Attack]()
+  - [An Academic Analysis of the DevRandom CTF: 1.1]()
 
 - <b>Python (NSFW, For Educational Purposes Only)</b>
   - [Building a TCP Client (Using Concurrency, Logging, and Monitoring)](https://github.com/CaelaMills/TCPClient)
