@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caela! <br/><a href=""></a>Programmer</h1>, <a href=""></a>Avid Learner</h1>, <a href=""></a>YouTuber</h1>
+<h1>Hi, I'm Caela! <br/> <a href=""></a>Programmer</h1>, <a href=""></a>Avid Learner</h1>, <a href=""></a>YouTuber</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
