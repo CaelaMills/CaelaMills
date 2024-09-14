@@ -6,7 +6,7 @@
   - [An Academic Analysis of the DevRandom CTF: 1.1 Vulnerable Virtual Machine]()
   - [An Academic Analysis of the Billy Madison CTF: 1.1 Vulnerable Virtual Machine]()
 
-- <b>Python (NSFW, For Educational Purposes Only)</b>
+- <b>Python Projects (NSFW, For Educational Purposes Only)</b>
   - [Building a TCP Client (Using Concurrency, Logging, and Monitoring)](https://github.com/CaelaMills/TCPClient)
   - [Building a UDP Client (Observing the “Three-Way Handshake”)](https://github.com/CaelaMills/UDPClient)
   - [Building a TCP Client (Implementing Rate Time Limiting)](https://github.com/CaelaMills/TCPServer)
