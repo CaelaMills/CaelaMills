@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>VirtualBox</b>
+- <b>CTF Challenges: VM Labs</b>
   - [Kali: Hacking DHCP using a MITM Attack]()
 
 - <b>Python (NSFW, For Educational Purposes Only)</b>
