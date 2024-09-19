@@ -13,7 +13,7 @@
 
 - <b>Python Projects (NSFW, For Educational Purposes Only)</b>
   - [Building a TCP Client (Using Concurrency, Logging, and Monitoring)](https://github.com/CaelaMills/TCPClient)
-  - [Building a UDP Client (Sanitize Input, Length Checks, and Whitelisting)](https://github.com/CaelaMills/UDPClient)
+  - [Building a UDP Client (Using Sanitize Input, Length Checks, and Whitelisting)](https://github.com/CaelaMills/UDPClient)
   - [Building a TCP Client (Implementing Rate Time Limiting)](https://github.com/CaelaMills/TCPServer)
   - [Using the Scapy Library to make a Sniffer (Bonus SEC API Project)](https://github.com/CaelaMills/ScapySniffer/blob/master/sniffer.py)
 
