@@ -9,7 +9,7 @@
   - [An Academic Analysis of the DevRandom CTF: 1.1 Vulnerable Virtual Machine]()
 
 - <b>Red Teaming</b>
-  - [How to Setup Bloodhound in Kali Linux]()
+  - [How to Setup Bloodhound in Kali Linux](https://github.com/CaelaMills/BloodHound_Setup)
 
 - <b>Python Projects (NSFW, For Educational Purposes Only)</b>
   - [Building a TCP Client (Using Concurrency, Logging, and Monitoring)](https://github.com/CaelaMills/TCPClient)
