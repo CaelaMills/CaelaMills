@@ -8,7 +8,7 @@
 - <b>CTF Challenges</b>
   - [An Academic Analysis of the DevRandom CTF: 1.1 Vulnerable Virtual Machine]()
 
-- <b>Red Teaming</b>
+- <b>Blue Teaming</b>
   - [How to Setup Bloodhound in Kali Linux](https://github.com/CaelaMills/BloodHound_Setup)
 
 - <b>Python Projects (NSFW, For Educational Purposes Only)</b>
